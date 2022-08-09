@@ -26,6 +26,7 @@ For the second implementation of the algorithm, a dictionary of Camelot Scores w
 
 My house music playlist that I was using only had, at the time, 160 songs in it. To see the change in the runtime of the algorithms, I needed to use a bigger data set. I found a playlist of 10,000 songs on Spotify from Alex Marty (https://open.spotify.com/playlist/6FKDzNYZ8IW1pvYVF4zUN2). After running each algorithm 100 times, I found the following results.  
 
+<img width="703" alt="Screen Shot 2022-07-25 at 6 05 26 PM" src="https://user-images.githubusercontent.com/88391946/183744346-8c3e35d2-2253-4892-b96d-bb3f010434ee.png">
 
 To go to the notebook for this process, click here https://github.com/JoeDominik/Making-A-Harmonic-DJ-Set/blob/main/Spotify%20Final.ipynb
 Not only did it take the first algorithm, on average, 48x longer than that of the second algorithm, but it also had 15.8% less songs in it. This showed not only what algorithm was faster, but also which algorithm was asymptoticly less complex given the large factor of difference.
