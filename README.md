@@ -24,7 +24,7 @@ For the second implementation of the algorithm, a dictionary of Camelot Scores w
 
 ## Results from Both Algorithms
 
-My house music playlist that I was using only had, at the time, 160 songs in it. To see the change in the runtime of the algorithms, I needed to use a bigger data set. I found a playlist of 10,000 songs on Spotify from Alex Marty (https://open.spotify.com/playlist/6FKDzNYZ8IW1pvYVF4zUN2). After running each algorithm 100 times, I found the following results.  *Insert picture of results here*
+My house music playlist that I was using only had, at the time, 160 songs in it. To see the change in the runtime of the algorithms, I needed to use a bigger data set. I found a playlist of 10,000 songs on Spotify from Alex Marty (https://open.spotify.com/playlist/6FKDzNYZ8IW1pvYVF4zUN2). After running each algorithm 100 times, I found the following results.  
 
 
 To go to the notebook for this process, click here *insert book url*
