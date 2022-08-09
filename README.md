@@ -39,7 +39,7 @@ Data visuals were also produced to show the danceability, energy, and loudness a
 
 One idea I have to expand functionality is to have the algorithm run several times and then having the user pick the set with the preferred energy or danceability distribution. Another idea would be including the option for multiple playlists for the algorithm to pick from that would increase the variety of sets possible. Finally, having a constraint on the amount of songs for the set would allow the user to taylor the length of the set. Thank you for time and please explore and reach out if you have any comments on this project. Below I will describe what is needed for you to reproduce this with your own playlist.
 
-# Using this On Your Own Spotify Playlist A User Will Need: 
+### Using this On Your Own Spotify Playlist A User Will Need: 
 
 A Spotify account
 
