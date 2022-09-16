@@ -35,7 +35,7 @@ Not only did it take the first algorithm, on average, 48x longer than that of th
 
 After figuring out a more efficient algorithm, I finally produced a harmonic set from my house music playlist. I manually added the resulting songs to a new playlist. Myself and others listened to the new playlist during a night with a crossfade between songs and we all agreed it sounded very natural and not choppy. Success!
 
-Data visuals were also produced to show the danceability, energy, and loudness across the set that was produced
+Data visuals were also produced to show the danceability, energy, and loudness across the set that was produced. This can be seen here https://github.com/JoeDominik/Making-A-Harmonic-DJ-Set/blob/main/Spotify%20Testing.ipynb
 
 One idea I have to expand functionality is to have the algorithm run several times and then having the user pick the set with the preferred energy or danceability distribution. Another idea would be including the option for multiple playlists for the algorithm to pick from that would increase the variety of sets possible. Finally, having a constraint on the amount of songs for the set would allow the user to taylor the length of the set. Thank you for time and please explore and reach out if you have any comments on this project. Below I will describe what is needed for you to reproduce this with your own playlist.
 
